@@ -1,4 +1,3 @@
-<!-- game.html -->
 <!DOCTYPE html>
 <html lang="ar">
 <head>
@@ -104,4 +103,5 @@
 	// ]]>
 </script>
 </body>
+
 </html>
